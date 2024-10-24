@@ -1,0 +1,23 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    
+---
+
+My GitHub account [this page](https://github.com/dashboard)
+
+My email: sq2266@cumc.columbia.edu
+
+My Facebook: [this page](https://www.facebook.com/profile.php?id=100091517703239&mibextid=LQQJ4d)
+
+
+
+
+
+
+
+
+

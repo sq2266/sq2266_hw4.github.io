@@ -1,0 +1,80 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    
+---
+
+### My Resume
+
+
+#### EDUCATION
+
+COLUMBIA UNIVERSITY MAILMAN SCHOOL OF PUBLIC HEALTH | New York, NY
+
+     Master of Public Health (MPH)
+         Sociomedical Science
+         Certificate in Applied Biostatistics, expected May 2025
+     
+       •	Relevant Courses : 
+            Data Science I
+            Statistical Computing with SAS
+            Quantitative Research Methods
+            Qualitative Research Methods
+     
+
+DENISON UNIVERSITY | Granville, OH
+
+       Bachelor of Arts, Psychology, Minor in Economics, May 2023
+
+
+
+#### RESEARCH EXPERIENCE
+REARCH ON THE EFFECT OF HEALTHCARE ON OLDER   |     Granville, OH, April-May 2022
+
+     Raised 3 assumptions based on 33 handpicked journal articles & filtered data from NHATS, ascertained one while falsified the other two with a 2 * 3 mixed ANOVA & a quasi-experimental study.
+     
+     Concluded possible reasons for the failure in supporting the 2 assumptions after a further study into relevant research, attributing to factors like misdiagnosis & lack of mental health service providers.
+     
+     Introduced an exploratory study hypothesis and proved this positive correlation between tobacco usage & the rate of depression in older adults.
+     
+     
+REARCH ON THE EFFECT OF AGING ON EPISODIC      |        Granville, OH, March 2022
+
+     Came up with 6 hypotheses on the topic including how positivity and vividness of memory differ in old and young age groups via 22 sources of references selected from 50+ given journal materials.
+     
+     Formulated a 2 * 2 mixed ANCOVA design questionnaire for the project and retrieved 90 results in total, before confirming the 6 hypotheses accordingly.
+
+
+
+#### EXPERIENCE
+
+NINGBO YINZHOU DISTRICT CENTER FOR DISEASE CONTROL AND PREVENTION Data Center  | Ningbo, China June-August 2024
+
+     Collect relevant literature on adolescent mental health problems at home and abroad, point out the current status of adolescent mental health problems in China, analyze the relevant influencing factors, draw on effective intervention plans at home and abroad to propose solutions for adolescent mental health problems in Yinzhou District, Ningbo, and write a review report 
+     Analyze the relationship between health factors and osteoporosis patients aged 50 and above in Yinzhou District, Ningbo and their prevention measures, clean up the database, write the summary and results of the research report, and output basic feature distribution, single factor analysis and multi-factor analysis tables
+     
+YINZHOU NO.2 HOSPITAL   Public Health Prevention Dept. Intern  |   Ningbo, China    June-August 2023
+
+      Reviewed and gathered data on pressure ulcers in elderly individuals, with the aim of modifying theclinical situation of pressure ulcers in this specific population.
+      Gathered and compiled residents’ health data from local institutions over the pandemic, analyzed data and consolidated into a comprehensive report.
+      
+      
+NINGBO KANGNING HOSPITAL   Disease Prevention Dept. Intern  |     Ningbo, China    July-August 2022
+
+      Collected data about community-based mental illness rehabilitation conditions in Romania, Japan, South Korea & Singapore for comparison with domestic data, which will be stated in later publications.
+      Analyzed peer support development history of 7 nations from its 3 mainstream approaches, concluding that this cause is far from mature worldwide and requires even more emphasis & work in China.
+      Provided guidelines for local communities on the basis of research results, such as recruiting more mid-level cadres from the working class, setting up systematic staff training, cultivating empathy, etc.
+
+
+#### SKILLS AND INTERESTS
+Computer skills: Strong knowledge of MS (Word, Excel and PowerPoint), and statistical skills (SPSS, SAS, STATA, R).
+
+Language skills: Chinese(native), English(fluent), Japanese(conversational).
+
+
+
+
+
