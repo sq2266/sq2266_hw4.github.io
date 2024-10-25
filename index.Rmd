@@ -7,7 +7,7 @@ output:
 
 ---
 
-## Hello, I am Sihan Qiu
+## Hello, I am Sihan QiuDa
 Welcome to my personal website! I'm a Sihan Qiu, currently a second year student in Mailman School in Columbia University. I am in Socialmedical Science Department with Applied Biostatistic Certificate.
 
 On this website, you'll find:
