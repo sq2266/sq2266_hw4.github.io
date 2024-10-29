@@ -4,9 +4,9 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about.html
+      href: About.html
     - text: "Dashboard"
-      href: dashboard.html
+      href: Dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
